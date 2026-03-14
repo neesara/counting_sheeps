@@ -2,3 +2,5 @@ This fun website allows you to go to sleep by counting sheep. Just imaging sheep
 Save button allows you to log the current count and reset the counter. Sweet dreams :)
 
 Sample image of webpage :
+
+![Alt text](counting_sheep_screenshot.png)
